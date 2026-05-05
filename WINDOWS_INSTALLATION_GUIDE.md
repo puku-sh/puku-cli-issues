@@ -51,9 +51,14 @@ npm --version
 You should see output similar to:
 
 ```
-v20.11.0
-10.2.4
+C:\Users\poridhi>node --version
+v22.15.0
+
+C:\Users\poridhi>npm --version
+10.9.2
 ```
+
+> Make sure to update to the latest version. Older versions might show warnings.
 
 If either command returns `'node' is not recognized` or `'npm' is not recognized`, see [PATH Issues](#command-not-found--path-issues) below.
 
@@ -72,8 +77,6 @@ npm install -g @puku/puku-cli
 > Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 > ```
 > Then retry the install command.
-
----
 
 ## Verifying the Installation
 
