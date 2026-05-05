@@ -80,7 +80,7 @@ npm install -g @puku/puku-cli
 After installation, confirm the CLI is available:
 
 ```bash
-puku --version
+puku-cli --version
 ```
 
 Or check where it was installed:
@@ -140,7 +140,7 @@ npm install -g @puku/puku-cli
 **Step 4 — Verify:**
 
 ```bash
-puku --version
+puku-cli --version
 ```
 
 ---
@@ -189,10 +189,10 @@ Then add `%USERPROFILE%\npm-global` to your `PATH` (see the next section).
 
 ### Command Not Found / PATH Issues
 
-**Symptom:** After installation, running `puku` returns:
+**Symptom:** After installation, running `puku-cli` returns:
 
 ```
-'puku' is not recognized as an internal or external command
+'puku-cli' is not recognized as an internal or external command
 ```
 
 **Why this happens:** npm installs global CLI binaries into a directory that may not be in your Windows `PATH`.
@@ -218,7 +218,7 @@ This returns a path like `C:\Users\<you>\AppData\Roaming\npm`. Global CLI binari
 **Step 4 — Verify:**
 
 ```bash
-where puku
+where puku-cli
 ```
 
 ---
