@@ -2,11 +2,6 @@
 
 Thank you for using Puku CLI and for taking the time to share feedback. This repository is dedicated to **filing and tracking issues** for Puku CLI.
 
-## What this repo is (and isn't)
-
-- ✅ **Yes:** File bug reports, feature requests, and documentation issues here.
-- ❌ **No:** This is not the place for code contributions, pull requests, or build instructions. We won't accept pull requests against this repository.
-
 ## Filing issues — at a glance
 
 | What you want to do                              | Template                                                                                |
@@ -22,7 +17,7 @@ Thank you for using Puku CLI and for taking the time to share feedback. This rep
 A little prep goes a long way toward a fast resolution:
 
 - **Search existing issues.** Use the [issue search](https://github.com/puku-sh/puku-cli-issues/issues) to check whether your problem or idea has already been reported. If you find a duplicate, add a 👍 reaction or a comment with additional context instead of opening a new issue.
-- **Use the latest version.** Run `puku --version` and update to the newest release before filing. Many issues are already fixed in newer versions.
+- **Use the latest version.** Run `puku-cli --version` and update to the newest release before filing. Many issues are already fixed in newer versions.
 - **One issue per report.** Don't bundle multiple bugs or feature ideas together — each gets its own thread and label.
 - **Never paste secrets.** API keys, tokens, passwords, `.env` contents, and personal data should never appear in an issue. Redact or omit them.
 
@@ -37,7 +32,7 @@ The best bug reports answer four questions clearly:
 
 Additional tips:
 
-- Include the **Puku CLI version** (`puku --version`), **operating system**, and **terminal/shell**.
+- Include the **Puku CLI version** (`puku-cli --version`), **operating system**, and **terminal/shell**.
 - Paste **complete error messages and stack traces** — don't paraphrase.
 - If the issue involves specific files or code, create a **minimal reproduction** that anyone can follow.
 - **Screenshots and short screen recordings** are welcome — drag and drop them into the issue.

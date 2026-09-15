@@ -26,7 +26,7 @@ Either channel reaches our security team directly.
 
 To help us triage quickly, please include:
 
-- **Affected version** of Puku CLI (run `puku --version`)
+- **Affected version** of Puku CLI (run `puku-cli --version`)
 - **Operating system** and version
 - **Reproduction steps** — minimal steps that reliably trigger the issue
 - **Impact assessment** — what an attacker could achieve
