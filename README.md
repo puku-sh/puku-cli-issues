@@ -19,7 +19,7 @@ Pick the template that best matches what you want to report. You'll be guided th
 Help us help you:
 
 - **Search first.** Check [existing issues](https://github.com/puku-sh/puku-cli-issues/issues) to avoid duplicates.
-- **Use the latest version.** Run `puku --version` and update before filing.
+- **Use the latest version.** Run `puku-cli --version` and update before filing.
 - **One issue per report.** Don't bundle multiple bugs or feature ideas together.
 - **Scrub secrets.** Never paste API keys, tokens, passwords, or `.env` contents.
 
